@@ -28,7 +28,7 @@ public class Ex04 {
 		//[라면, 김밥, 떡볶이] if 김밥을 다른 값으로 변경하고 싶을 때?
 		//김밥이 있는지 찾아서 remove 후 add로 추가
 		//변경 후 [라면 , 떡볶이, 순대] 
-		//근데 순서가 밀림......ㅜㅜ
+		
 		System.out.println("변경할 위치 입력: ");
 		int index = input.nextInt();
 		System.out.println("변경할 값 입력: ");
